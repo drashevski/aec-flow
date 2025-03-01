@@ -1,0 +1,7 @@
+{
+  "scripts": {},
+  "devDependencies": {},
+  "dependencies": {
+    "@bldrs-ai/conway": "0.15.839"
+  }
+}
